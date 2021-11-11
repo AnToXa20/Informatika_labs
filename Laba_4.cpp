@@ -85,7 +85,7 @@ int main()
 {
     int a;
     setlocale(LC_ALL, "Russian");
-    cout << "Введите номер задания 1, 2, 3, 4, 5, 6: " << endl;
+    cout << "Введите номер задания 1, 2, 3, 4 или 5: " << endl;
     cin >> a;
     switch (a)
     {
