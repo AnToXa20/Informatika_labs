@@ -68,10 +68,10 @@ void n4()
 
 void n5()
 {
-    double A, i, C, A2;
+    double A, C, A2;
     cout << "Введите вещественное число A:" << endl;
     cin >> A;
-    int N;
+    int N, i;
     cout << "Введите целое число N: " << endl;
     cin >> N;
     A2 = 1; 
